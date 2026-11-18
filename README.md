@@ -30,7 +30,7 @@ A Java Swing desktop application for managing hotel customers, rooms, and reserv
 
 ## Technology
 
-- Java (JDK 8 or later; JDK 17 is recommended)
+- Java ( JDK 17 is recommended)
 - Java Swing and AWT
 - Java Collections
 - Java Object Serialization for local data persistence
@@ -92,10 +92,6 @@ When you save application records, the program creates local files such as:
 - `confirmed_reservations.dat`
 
 These files are intentionally excluded from Git because they can contain personal or test records. The application can start with empty data files when they do not exist.
-
-## Screenshot
-
-![Hotel Reservation System main menu](screenshots/main-menu.png)
 
 ## Notes
 
