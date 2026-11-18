@@ -1,0 +1,18 @@
+# Java compiled output
+*.class
+out/
+build/
+target/
+
+# Local serialized application data (may contain personal/test records)
+*.dat
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
